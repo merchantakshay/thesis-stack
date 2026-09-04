@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/thesis-stack.github.io",
-  assetPrefix: "/thesis-stack.github.io/",
+  basePath: "/thesis-stack",
+  assetPrefix: "/thesis-stack/",
   trailingSlash: true,
   images: { unoptimized: true },
 };
