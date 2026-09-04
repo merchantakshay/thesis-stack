@@ -2,7 +2,7 @@
 
 An informational investment-research website mapping six structural themes across their value-chain layers and the public companies with durable moats.
 
-Live site: https://merchantakshay.github.io/thesis-stack/
+Live site: https://merchantakshay.github.io/thesis-stack.github.io/
 
 ## Local development
 
